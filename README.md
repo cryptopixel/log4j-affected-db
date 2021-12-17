@@ -481,7 +481,7 @@ This list was initially populated using information from the following sources:
 | Cloudogu | SCM-Manager|| Not Affected| | [SCM-Manager Blog](https://scm-manager.org/blog/posts/2021-12-13-log4shell/)||||
 | Cloudron | | | | | [Cloudron Forum](https://forum.cloudron.io/topic/6153/log4j-and-log4j2-library-vulnerability?lang=en-US) | | | |
 | Clover | | | | | [Clover Article](https://community.clover.com/articles/35868/apache-log4j-vulnerability-cve-2021-44228.html) | | | |
-| Code42 | Crashplan | 8.8, possibly prior versions | Fixed | Yes | [Code42 Release Notification](https://success.code42.com/hc/en-us/articles/4416158712343-RELEASE-NOTIFICATION-Code42-Vulnerability-Mitigation-for-CVE-2021-44228-and-other-updates) | I think, they don't specify in the notice, but we know that they released an updated Crashplan client. Possibly prior versions affected.  | | 12/16/2021 |
+| Code42 | | | | | [Code42 Link](https://support.code42.com/Terms_and_conditions/Code42_customer_support_resources/Code42_response_to_industry_security_incidents) | | | |
 | CodeBeamer | | | | | [CodeBeamer Link](https://codebeamer.com/cb/wiki/19872365) | | | |
 | Codesys | | | | | [Codesys News](https://www.codesys.com/news-events/news/article/log4j-not-used-in-codesys.html) | | | |
 | Cohesity | | | | | [Cohesity Support Link](https://support.cohesity.com/s/article/Security-Advisory-Apache-Log4j-Remote-Code-Execution-RCE-CVE-2021-44228) | | | |
@@ -1023,7 +1023,19 @@ This list was initially populated using information from the following sources:
 | Ignite Realtime | | | | | [Ignite Realtime Statement](https://discourse.igniterealtime.org/t/openfire-4-6-5-released/91108) | | | |
 | iGrafx | | | | | [iGrafx Statement](https://www.igrafx.com/igrafx-thwarts-log4j-vulnerability/) | | | |
 | Illuminated Cloud | | | | | [Illuminated Cloud Statement](https://illuminatedcloud.blogspot.com/2021/12/illuminated-cloud-2-and-log4j-security.html) | | | |
-| Illumio | | | | | [Illumio Statement](https://support.illumio.com/knowledge-base/articles/Customer-Security-Advisory-on-log4j-RCE-CVE-2021-44228.html) | | | |
+| Illumio | C-VEN | | Not Affected | | [Illumio KB article](https://support.illumio.com/knowledge-base/articles/Customer-Security-Advisory-on-log4j-RCE-CVE-2021-44228.html)| | |12/16/2021|
+| Illumio | CLI | | Not Affected | | [Illumio KB article](https://support.illumio.com/knowledge-base/articles/Customer-Security-Advisory-on-log4j-RCE-CVE-2021-44228.html)| | |12/16/2021|
+| Illumio | CloudSecure | | Not Affected | | [Illumio KB article](https://support.illumio.com/knowledge-base/articles/Customer-Security-Advisory-on-log4j-RCE-CVE-2021-44228.html)| | |12/16/2021|
+| Illumio | Core on-premise PCE | | Not Affected | | [Illumio KB article](https://support.illumio.com/knowledge-base/articles/Customer-Security-Advisory-on-log4j-RCE-CVE-2021-44228.html)| | |12/16/2021|
+| Illumio | Core SaaS PCE | | Not Affected | | [Illumio KB article](https://support.illumio.com/knowledge-base/articles/Customer-Security-Advisory-on-log4j-RCE-CVE-2021-44228.html)| | |12/16/2021|
+| Illumio | Edge SaaS PCE | | Not Affected | | [Illumio KB article](https://support.illumio.com/knowledge-base/articles/Customer-Security-Advisory-on-log4j-RCE-CVE-2021-44228.html)| | |12/16/2021|
+| Illumio | Edge-CrowdStrike | | Not Affected | | [Illumio KB article](https://support.illumio.com/knowledge-base/articles/Customer-Security-Advisory-on-log4j-RCE-CVE-2021-44228.html)| | |12/16/2021|
+| Illumio | Flowlink | | Not Affected | | [Illumio KB article](https://support.illumio.com/knowledge-base/articles/Customer-Security-Advisory-on-log4j-RCE-CVE-2021-44228.html)| | |12/16/2021|
+| Illumio | Kubelink | | Not Affected | | [Illumio KB article](https://support.illumio.com/knowledge-base/articles/Customer-Security-Advisory-on-log4j-RCE-CVE-2021-44228.html)| | |12/16/2021|
+| Illumio | NEN | | Not Affected | | [Illumio KB article](https://support.illumio.com/knowledge-base/articles/Customer-Security-Advisory-on-log4j-RCE-CVE-2021-44228.html)| | |12/16/2021|
+| Illumio | QRadar App | | Not Affected | | [Illumio KB article](https://support.illumio.com/knowledge-base/articles/Customer-Security-Advisory-on-log4j-RCE-CVE-2021-44228.html)| | |12/16/2021|
+| Illumio | Splunk App | | Not Affected | | [Illumio KB article](https://support.illumio.com/knowledge-base/articles/Customer-Security-Advisory-on-log4j-RCE-CVE-2021-44228.html)| | |12/16/2021|
+| Illumio | VEN | | Not Affected | | [Illumio KB article](https://support.illumio.com/knowledge-base/articles/Customer-Security-Advisory-on-log4j-RCE-CVE-2021-44228.html)| | |12/16/2021|
 | IManage | | | | | [IManage Statement](https://help.imanage.com/hc/en-us/articles/4412696236699-ADVISORY-Security-vulnerability-CVE-2021-44228-in-third-party-component-Apache-Log4j2#h_3164fa6c-4717-4aa1-b2dc-d14d4112595e) | | | |
 | Imperva | | | | | [Imperva Statement](https://www.imperva.com/blog/how-were-protecting-customers-staying-ahead-of-cve-2021-44228/) | | | |
 | Inductive Automation | | | | | [Inductive Automation Statement](https://support.inductiveautomation.com/hc/en-us/articles/4416204541709-Regarding-CVE-2021-44228-Log4j-RCE-0-day) | | | |
