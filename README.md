@@ -1696,5 +1696,4 @@ This list was initially populated using information from the following sources:
 | Zoom | | | | | [Zoom Security Exposure](https://community.zoom.com/t5/Community-Help-Center/Zoom-security-exposure/m-p/28109/highlight/true#M2059) | | | |
 | ZPE systems Inc | | | | | [ZpeSystems CVE-2021-44228](https://support.zpesystems.com/portal/en/kb/articles/is-nodegrid-os-and-zpe-cloud-affected-by-cve-2021-44228-apache-log4j) | | | |
 | Zscaler |Multiple Products||Not Affected|No|[CVE-2021-44228 log4j Vulnerability](https://trust.zscaler.com/posts/9581)|||12/15/2012|
-| Zyxel | | | | | [Zyxel Security Advisory for Apache Log4j](https://www.zyxel.com/support/Zyxel_security_advisory_for_Apache_Log4j_RCE_vulnerability.shtml) | | | |
 | Zyxel | Security Firewall/Gateways | ZLD Firmware Security Services, Nebula | Not Affected | N/A | [Zyxel Security Advisory](https://community.zyxel.com/en/discussion/12229/zyxel-security-advisory-for-apache-log4j-rce-vulnerability) | | | 12/14/2021 |
